@@ -24,5 +24,5 @@ Jamais Deverá Ser Executada Para Fins Ilicitos!! Podendo Ser Utilizada Apenas A
 
 ## Redes Sociais (Contato):
 
-- Facebook: https://www.facebook.com/obb.obb123
+
 - Email: boteistem@gmail.com
